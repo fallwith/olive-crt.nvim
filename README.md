@@ -4,10 +4,7 @@
 
 The original four source tones are used as the backbone for backgrounds and default foregrounds:
 
-- `#33372f`
-- `#717967`
-- `#b8bdb2`
-- `#d7d9d3`
+![olive-lcd base palette swatch](assets/olive-lcd-swatch.svg)
 
 From there, `olive-lcd.nvim` adds restrained earthy accents so code stays clear across syntax groups, diagnostics, git changes, search, and modern Neovim UI.
 
