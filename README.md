@@ -83,14 +83,12 @@ vim.cmd.colorscheme("olive-crt")
 
 The repo ships matching extras for:
 
-- [`ghostty` dark](extras/ghostty/olive-crt-dark) / [`light`](extras/ghostty/olive-crt-light)
-- [`kitty` dark](extras/kitty/olive-crt-dark.conf) / [`light`](extras/kitty/olive-crt-light.conf)
-- [`wezterm` dark](extras/wezterm/olive-crt-dark.lua) / [`light`](extras/wezterm/olive-crt-light.lua)
-- [`alacritty` dark](extras/alacritty/olive-crt-dark.toml) / [`light`](extras/alacritty/olive-crt-light.toml)
-- [`tmux` dark](extras/tmux/olive-crt-dark.conf) / [`light`](extras/tmux/olive-crt-light.conf)
-- [`iTerm2` dark](extras/iterm2/olive-crt-dark.itermcolors) / [`light`](extras/iterm2/olive-crt-light.itermcolors)
-
-See `extras/` for ready-to-drop palette files for both dark and light variants.
+- ghostty: [dark](extras/ghostty/olive-crt-dark) / [light](extras/ghostty/olive-crt-light)
+- kitty: [dark](extras/kitty/olive-crt-dark.conf) / [light](extras/kitty/olive-crt-light.conf)
+- wezterm: [dark](extras/wezterm/olive-crt-dark.lua) / [light](extras/wezterm/olive-crt-light.lua)
+- alacritty: [dark](extras/alacritty/olive-crt-dark.toml) / [light](extras/alacritty/olive-crt-light.toml)
+- tmux: [dark](extras/tmux/olive-crt-dark.conf) / [light](extras/tmux/olive-crt-light.conf)
+- iTerm2: [dark](extras/iterm2/olive-crt-dark.itermcolors) / [light](extras/iterm2/olive-crt-light.itermcolors)
 
 Using Omarchy? Check out the matching Omarchy themes:
 
